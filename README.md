@@ -2,7 +2,7 @@ Customer Review Component
 A clean and modern **Customer Review UI Component** designed for e-commerce platforms.  
 This component displays user feedback in a structured, visually appealing, and reusable format.
 
-Overview
+Overview 
 
 This project showcases a standalone review card that includes:
 - Reviewer name
