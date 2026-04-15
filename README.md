@@ -11,9 +11,7 @@ This project showcases a standalone review card that includes:
 - Customer feedback text
 The component is designed to be easily integrated into any e-commerce website.
 
-Preview
 
-![Customer Review UI](./rating.jpeg)
 
 Features
 
